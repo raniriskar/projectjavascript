@@ -1,10 +1,8 @@
 # **PSEUDECODE**
-
-
->  MASUKKAN dan SIMPAN 'nama' 
->   TULISKAN " Hai  'nama' selamat datang di game TEBAK SOAL"
->   MASUKKAN 'object' dan SIMPAN
->   TULISKAN "Selamat datang di pelajaran 'object'"
+>       MASUKKAN dan SIMPAN 'nama' 
+>       TULISKAN " Hai  'nama' selamat datang di game TEBAK SOAL"
+>       MASUKKAN 'object' dan SIMPAN
+>       TULISKAN "Selamat datang di pelajaran 'object'"
 >       IF 'object' inggris atau 'object' Inggris THEN
 >           'jawaban' samadengan TAMPILKAN No 1. What is the Anthonym of Thin ?
 >               IF 'jawaban' samadengan Fat atau 'jawaban' samadengan fat THEN
@@ -14,7 +12,6 @@
 >                   MASUKKAN nilai 0 pada 'nilai'
 >                   TAMPILKAN "That\'s Incorrect. Your point is 'nilai'
 >               ENDIF:
->
 >           'jawaban' samadengan TAMPILKAN No 2. Arrange this words !\n Sandi - name - is - His ?
 >               IF 'jawaban' samadengan His name is sandi atau 'jawaban' samadengan his name is sandi THEN
 >                   MASUKKAN nilai 20 pada 'nilai'
@@ -155,10 +152,10 @@
 >                   TAMPILKAN "Total nilai kamu adalah 'total'
 >               ENDIF:
 >         ENDIF:
->   IF 'total' samadengan 100 THEN
->       TAMPILKAN "CONGRATULATION 'nama' YOU ARE WIN"
->   ELSE IF 'total' samadengan 80 THEN 
->       TAMPILKAN " Congratulation 'nama' you almost perfect"
->   ELSE:
->       TAMPILKAN "Upss... You are LOSE"
->   ENDIF:
+>       IF 'total' samadengan 100 THEN
+>           TAMPILKAN "CONGRATULATION 'nama' YOU ARE WIN"
+>       ELSE IF 'total' samadengan 80 THEN 
+>           TAMPILKAN " Congratulation 'nama' you almost perfect"
+>       ELSE:
+>           TAMPILKAN "Upss... You are LOSE"
+>       ENDIF:
